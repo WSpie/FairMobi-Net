@@ -6,7 +6,8 @@ Data source
 - Other features: OpenStreetMap data
 
 # Modeling
-Enviornment: `python3.8`\\
+Enviornment: `python3.8`
+
 Run command: 
 ```[bash]
 python main.py --model [model name] --coef [lagrangian coefficient] --device [cuda] --lr [0.0001] --place [place] --batch-size 256 --epochs [500] --op [binary or reg]
