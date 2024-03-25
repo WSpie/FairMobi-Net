@@ -13,5 +13,5 @@ python main.py --model [model name] --coef [lagrangian coefficient] --device [cu
 # default coef is 0 for other models except fairmb
 # for fairmb, coef ranges from 0.1 to 1.0 with step 0.1
 ```
-Check checkpoint at ![checkpoints](/checkpoints/)\\
-Check test result at ![test result](/outputs/)
+Check checkpoint at [checkpoints](/checkpoints)\\
+Check test result at [test result](/outputs)
