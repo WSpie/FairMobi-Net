@@ -2,7 +2,7 @@
 Data source
 - Census tract polygon: PyGris package
 - Flow data: Cuebiq flow data of Feb 2020
-- Protected attribute - PCI: api.census.gov
+- Protected attribute - PCI: [api.census.gov](https://api.census.gov)
 - Other features: OpenStreetMap data
 
 # Modeling
