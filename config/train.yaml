@@ -1,0 +1,8 @@
+batch_size: 256
+epochs: 500
+learning_rate: 0.00001
+momentum: 0.09
+dampening: 0.01
+weight_decay_parameter: 5.e-4 # L2 parameter
+tolerance1: 0.1
+tolerance2: 0.1
