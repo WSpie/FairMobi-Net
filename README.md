@@ -4,6 +4,7 @@ Data source
 - Flow data: Cuebiq flow data of Feb 2020
 - Protected attribute - PCI: [api.census.gov](https://api.census.gov)
 - Other features: OpenStreetMap data
+
 Processed data will be stored at [feat_data](data/processed) with suffix of `_feat.parquet`
 
 # Modeling
