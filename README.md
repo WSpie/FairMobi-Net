@@ -5,6 +5,8 @@ Data source
 - Protected attribute - PCI: [api.census.gov](https://api.census.gov)
 - Other features: OpenStreetMap data
 
+Processed data will be stored at [data/processed](data/processed) with suffix of `_feat.parquet`
+
 # Modeling
 Enviornment: `python3.8`
 
