@@ -22,6 +22,9 @@ Check test result at [test result](/outputs)
 
 # Baseline models references
 DG: https://github.com/scikit-mobility/DeepGravity
+
 GMEL: https://github.com/jackmiemie/GMEL
+
 RT: https://github.com/jadore801120/attention-is-all-you-need-pytorch
+
 RM: https://github.com/scikit-mobility/scikit-mobility/blob/master/skmob/models/radiation.py
